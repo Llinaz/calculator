@@ -48,5 +48,6 @@ public class Main {
                 System.out.println("Вы ввели неправильную операцию! Введите корректное арифметическое действие!");
         }
         System.out.println("Программа завершена");
+        System.out.println();
     }
 }
