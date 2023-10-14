@@ -49,5 +49,6 @@ public class Main {
         }
         System.out.println("Программа завершена");
         System.out.println();
+        System.out.println();
     }
 }
